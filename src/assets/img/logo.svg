@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_7">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_7" data-name="Web 1920 – 7" clip-path="url(#clip-Web_1920_7)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <rect id="Rectangle_42" data-name="Rectangle 42" width="97" height="56" rx="25" transform="translate(882 462)" fill="#ff6b1c"/>
+    <text id="Go_Buy" data-name="Go  Buy" transform="translate(906 504)" fill="#fff" font-size="35" font-family="Futura-Medium, Futura" font-weight="500" letter-spacing="0.012em"><tspan x="0" y="0">Go</tspan><tspan y="0" xml:space="preserve" fill="#ff8f53">  </tspan><tspan y="0" fill="#ff6b1c">Buy</tspan></text>
+    <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(943 478)" fill="none" stroke="#fff" stroke-width="1.5">
+      <circle cx="3" cy="3" r="3" stroke="none"/>
+      <circle cx="3" cy="3" r="2.25" fill="none"/>
+    </g>
+  </g>
+</svg>
